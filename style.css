@@ -14,9 +14,7 @@ h1 {
 
 #featured-property p {
   width: 800px;
-  text-align: center;
-  padding-left: 10px;
-  padding-right: 10px;
+  text-align: center; /* center text */ 
 }
 
 nav {
@@ -28,4 +26,5 @@ nav a {
   padding-right: 10px;
   background: grey; 
 }
+
 
